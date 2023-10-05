@@ -1,4 +1,4 @@
-local discordWebhook = "https://canary.discord.com/api/webhooks/1159038312145747988/XS48pxJ69LmbBfNk7YSkeUBOhVFFiOWm8xMBQ6-C44XCncKeWRkR02cYoD2y1wZe11eb" -- Reemplaza con la URL de tu webhook de Discord
+local discordWebhook = "" -- Reemplaza con la URL de tu webhook de Discord
 
 -- Evento que se dispara cuando el servidor se reinicia
 AddEventHandler('onServerResourceStart', function(resourceName)
